@@ -1,4 +1,4 @@
-# Text-Classification_with_regex  
+# Text-Classification_with_datascience_using_regex  
 
 [![HitCount](http://hits.dwyl.com/rishang007/Text-Classification_with_regex.svg)](http://hits.dwyl.com/rishang007/Text-Classification_with_regex)
 
